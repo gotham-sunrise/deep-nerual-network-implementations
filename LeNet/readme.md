@@ -11,14 +11,18 @@
 
 ## Implementation
 
-(LetNet5.py)[LetNet5.py]
+[LetNet5.py](LetNet5.py)
 
 ## Training
 
-(LetNet5_Training.py)[LetNet5_Training.py]
+[LetNet5_Training.py](LetNet5_Training.py)
 
 
 ## ✅ 1. Download the MNIST Dataset (for LeNet)
 LeNet was originally designed for 32x32 grayscale images — MNIST (28x28) must be resized to 32x32.
 
-(LetNet5_Dataset.py)[LetNet5_Dataset.py]
+[LetNet5_Dataset.py](LetNet5_Dataset.py)
+
+## 📊 2. Create DataLoaders
+
+[LetNet5_Dataloader.py](LetNet5_Dataloader.py)
